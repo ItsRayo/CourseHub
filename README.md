@@ -102,5 +102,5 @@ http://localhost:3000/login.html
 Sensitive files such as `.env`, `node_modules`, and uploaded files are excluded from this repository.
 
 ---
-
-
+## youtube tutorial installation link
+https://youtu.be/Oj74_5vfmig
