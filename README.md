@@ -38,7 +38,7 @@ The project uses the following npm packages:
 * express-session
 * connect-mongo
 
-👉 These will be automatically installed using `npm install`.
+ These will be automatically installed using `npm install`.
 
 ---
 
@@ -83,21 +83,21 @@ node app.js
 ### 5. Open in browser
 
 ```
-http://localhost:3000
+http://localhost:3000/login.html
 ```
 
 ---
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 * `backend/` → server code and database models
 * `frontend/` → HTML, CSS, JS files
 
 ---
 
-## 🔐 Security Note
+##  Security Note
 
 Sensitive files such as `.env`, `node_modules`, and uploaded files are excluded from this repository.
 
